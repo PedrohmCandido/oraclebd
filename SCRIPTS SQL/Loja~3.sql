@@ -1,0 +1,1 @@
+CREATE PUBLIC SYNONYM produtos FOR loja.tb_produtos;
